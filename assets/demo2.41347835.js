@@ -1,0 +1,1 @@
+import{p as o,g as a,r as s,o as c,a as n,b as e}from"./app.f0fab4ab.js";const i={};o("data-v-007f6398");const r={class:"icon-wrapper"};a(),i.render=function(o,a){const i=s("g-icon");return c(),n("div",r,[e(i,{icon:"el-icon-eleme"}),e(i,{icon:"el-icon-goods"}),e(i,{icon:"el-icon-success"})])},i.__scopeId="data-v-007f6398";export{i as default};
