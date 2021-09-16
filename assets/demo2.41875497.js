@@ -1,0 +1,1 @@
+import{p as o,g as s,r as a,o as c,a as e,b as n}from"./app.e2777018.js";const i={};o("data-v-007f6398");const r={class:"icon-wrapper"};s(),i.render=function(o,s){const i=a("g-icon");return c(),e("div",r,[n(i,{icon:"el-icon-eleme"}),n(i,{icon:"el-icon-goods"}),n(i,{icon:"el-icon-success"})])},i.__scopeId="data-v-007f6398";export{i as default};

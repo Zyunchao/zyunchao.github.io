@@ -1,0 +1,1 @@
+import{p as a,g as i,r as o,o as n,a as s,b as c}from"./app.e2777018.js";const t={};a("data-v-35fab79d");const p={class:"icon-wrapper"};i(),t.render=function(a,i){const t=o("g-icon");return n(),s("div",p,[c(t,{icon:"ali-icon-wushuju"}),c(t,{icon:"ali-icon-xiangzidakai"}),c(t,{icon:"ali-icon-applications"})])},t.__scopeId="data-v-35fab79d";export{t as default};
