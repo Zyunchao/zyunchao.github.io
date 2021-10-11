@@ -1,1 +1,0 @@
-const e={key:"v-63f395df",path:"/modules/UpdateLog.html",title:"更新日志",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"modules/UpdateLog.md",git:{updatedTime:1631774229e3,contributors:[{name:"Zhangyunchao",email:"18651805393@163.com",commits:1}]}};export{e as data};

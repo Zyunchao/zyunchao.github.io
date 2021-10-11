@@ -1,1 +1,0 @@
-import{p as a,g as o,r as n,o as c,a as i,b as r}from"./app.e2777018.js";const s={};a("data-v-31b94a88");const t={class:"icon-wrapper"};o(),s.render=function(a,o){const s=n("g-icon"),e=n("GIcon");return c(),i("div",t,[r(s,{icon:"caiwuriqi"}),r(s,{icon:"home-card-warning-icon"}),r(s,{icon:"dongtaikouling"}),r(e,{icon:"org"})])},s.__scopeId="data-v-31b94a88";export{s as default};

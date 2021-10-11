@@ -1,0 +1,1 @@
+import{_ as a,r as c,o as n,a as _,b as o}from"./app.e7eb3b1a.js";const i={},s={class:"icon-wrapper"};function t(r,p){const e=c("g-icon");return n(),_("div",s,[o(e,{icon:"ali-icon-wushuju"}),o(e,{icon:"ali-icon-xiangzidakai"}),o(e,{icon:"ali-icon-applications"})])}var l=a(i,[["render",t],["__scopeId","data-v-35fab79d"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_,r as n,o as a,a as r,b as o}from"./app.e7eb3b1a.js";const t={},s={class:"icon-wrapper"};function i(d,p){const e=n("g-icon"),c=n("GIcon");return a(),r("div",s,[o(e,{icon:"caiwuriqi"}),o(e,{icon:"home-card-warning-icon"}),o(e,{icon:"dongtaikouling"}),o(c,{icon:"org"})])}var l=_(t,[["render",i],["__scopeId","data-v-31b94a88"]]);export{l as default};
