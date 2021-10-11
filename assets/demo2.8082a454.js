@@ -1,0 +1,1 @@
+import{_ as c,r as n,o as _,a as s,b as o}from"./app.12a83fb8.js";const a={},t={class:"icon-wrapper"};function r(i,d){const e=n("g-icon");return _(),s("div",t,[o(e,{icon:"el-icon-eleme"}),o(e,{icon:"el-icon-goods"}),o(e,{icon:"el-icon-success"})])}var l=c(a,[["render",r],["__scopeId","data-v-007f6398"]]);export{l as default};
