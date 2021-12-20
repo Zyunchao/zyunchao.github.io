@@ -1,0 +1,1 @@
+const e={key:"v-024fc523",path:"/modules/BaseDrawerContent.html",title:"BaseDrawerContent",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Slot",slug:"slot",children:[]}],git:{updatedTime:1633671474e3,contributors:[{name:"Zhangyunchao",email:"18651805393@163.com",commits:2}]},filePathRelative:"modules/BaseDrawerContent.md"};export{e as data};

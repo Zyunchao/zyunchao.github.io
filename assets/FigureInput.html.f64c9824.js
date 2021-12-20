@@ -1,1 +1,0 @@
-const e={key:"v-98e3b218",path:"/modules/FigureInput.html",title:"FigureInput",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"modules/FigureInput.md",git:{updatedTime:1637229834e3,contributors:[{name:"Zhangyunchao",email:"18651805393@163.com",commits:1}]}};export{e as data};
