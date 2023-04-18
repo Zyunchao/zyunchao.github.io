@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-208134fa","path":"/utilsDocs/install.html","title":"安装","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"引用","slug":"引用","link":"#引用","children":[]}],"git":{"updatedTime":1667273581000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":1}]},"filePathRelative":"utilsDocs/install.md"}');export{t as data};

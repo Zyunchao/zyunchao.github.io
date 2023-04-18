@@ -1,0 +1,1 @@
+const e=[{infoSelect:"",infoSelectAll:"",infoAutocomplete:""},{infoSelect:"",infoSelectAll:"",infoAutocomplete:""},{infoSelect:"",infoSelectAll:"",infoAutocomplete:""},{infoSelect:"",infoSelectAll:"",infoAutocomplete:""},{infoSelect:"",infoSelectAll:"",infoAutocomplete:""}];export{e as m};

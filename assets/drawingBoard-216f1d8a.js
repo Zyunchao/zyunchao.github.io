@@ -1,0 +1,1 @@
+import{c as o,M as r,p as a,U as n,_ as t}from"./framework-7d8e42ec.js";const _={name:"DrawingBoard"},c=o({..._,setup(s){return(l,p)=>{const e=r("g-irregular-table");return a(),n(e,{"col-num":38,"row-num":5,"cell-list":[]})}}}),u=t(c,[["__file","drawingBoard.vue"]]);export{u as default};

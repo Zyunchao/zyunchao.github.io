@@ -1,0 +1,6 @@
+import{_ as e,p as a,q as n,a1 as s}from"./framework-7d8e42ec.js";const i={},c=s(`<h1 id="微应用脚手架" tabindex="-1"><a class="header-anchor" href="#微应用脚手架" aria-hidden="true">#</a> 微应用脚手架</h1><p>避免微应用模板来回复制粘贴以及清理业务代码，提供了可以创建一个基础微应用项目的脚手架 <code>jn-micro-cli</code></p><h2 id="安装全局依赖" tabindex="-1"><a class="header-anchor" href="#安装全局依赖" aria-hidden="true">#</a> 安装全局依赖</h2><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> i jn-micro-cli <span class="token parameter variable">-g</span> <span class="token parameter variable">--registry</span><span class="token operator">=</span>http://172.31.71.159/repository/npm-public/
+
+<span class="token comment"># 安装成功后，验证</span>
+jn-micro <span class="token parameter variable">-v</span>
+<span class="token comment"># 输出：1.1.0</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="custom-container tip"><p class="custom-container-title">TIP</p><p>安装脚手架需要内网</p><p>脚手架创建项目时，需要外网</p></div>`,5),r=[c];function t(l,d){return a(),n("div",null,r)}const p=e(i,[["render",t],["__file","index.html.vue"]]);export{p as default};

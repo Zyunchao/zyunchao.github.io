@@ -1,0 +1,1 @@
+import{c as o,M as _,p as t,q as n,N as s,_ as a}from"./framework-7d8e42ec.js";const c={class:"wrapper"},d={name:"HintBoxDemo1"},p=o({...d,setup(r){return(m,i)=>{const e=_("g-hint-box");return t(),n("div",c,[s(e,{text:"今日所做之事勿候明天，自我所做之事勿候他人。——歌德"})])}}});const u=a(p,[["__scopeId","data-v-06a38bdd"],["__file","demo1.vue"]]);export{u as default};

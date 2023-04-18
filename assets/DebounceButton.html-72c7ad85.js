@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4672737e","path":"/components/DebounceButton.html","title":"DebounceButton","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1647416480000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":1}]},"filePathRelative":"components/DebounceButton.md"}');export{t as data};
