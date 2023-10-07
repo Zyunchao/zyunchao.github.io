@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f9f52144","path":"/components/UpdateLog.html","title":"组件库 jn-ve-global 更新日志","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1695007352000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":90}]},"filePathRelative":"components/UpdateLog.md"}');export{t as data};

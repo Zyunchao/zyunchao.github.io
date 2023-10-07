@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,Q as e,t as c}from"./framework-d7d41868.js";const n={},r=e("h1",{id:"vite-spa-框架",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vite-spa-框架","aria-hidden":"true"},"#"),c(" Vite SPA 框架")],-1),o=[r];function i(_,d){return a(),s("div",null,o)}const l=t(n,[["render",i],["__file","index.html.vue"]]);export{l as default};

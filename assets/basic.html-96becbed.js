@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3a5fba63","path":"/micro/updateLog/basic.html","title":"统一管理平台更新日志","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1696663658000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":20}]},"filePathRelative":"micro/updateLog/basic.md"}');export{a as data};
