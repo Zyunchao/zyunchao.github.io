@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-ec61ddb2","path":"/micro/moduleDetail/indexes.html","title":"模块详解","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1652766677000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":2}]},"filePathRelative":"micro/moduleDetail/indexes.md"}');export{e as data};

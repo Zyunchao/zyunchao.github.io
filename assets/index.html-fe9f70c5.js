@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1e1a7031","path":"/micro-cli/","title":"微应用脚手架","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"安装全局依赖","slug":"安装全局依赖","link":"#安装全局依赖","children":[]}],"git":{"updatedTime":1687320669000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":4}]},"filePathRelative":"micro-cli/index.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-bf64fd40","path":"/monorepo/painSpot.html","title":"项目痛点","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680081197000,"contributors":[{"name":"Zyunchao","email":"18651805393@163.com","commits":1}]},"filePathRelative":"monorepo/painSpot.md"}');export{t as data};

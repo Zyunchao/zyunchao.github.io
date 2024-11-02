@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as n,Q as e,t as s}from"./framework-d7d41868.js";const c={},o=e("h1",{id:"前言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#前言","aria-hidden":"true"},"#"),s(" 前言")],-1),r=e("p",null,"在这里做一个前端知识点的分享站点，各位前端同学可以踊跃分享知识",-1),_=[o,r];function d(i,l){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};
